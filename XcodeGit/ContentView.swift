@@ -16,7 +16,7 @@ struct ContentView: View {
             Text("Hello, world!")
             Text("初めてのコミット")
             // 2回目のコミット
-            // amendって何
+            // amendって修正？
         }
         .padding()
     }
